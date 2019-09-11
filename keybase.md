@@ -4,7 +4,7 @@ I hereby claim:
 
   * I am janporeba on github.
   * I am jan9poreba (https://keybase.io/jan9poreba) on keybase.
-  * I have a public key ASCg3qEKHU-7dcTj5RiXVkDcDYYtX422ur1IhrVKfqmxWgo
+  * I have a public key ASDe5K6PAyc_NspiW9sRtYD1qh6p7UVazqTh7HmwFE6Ahgo
 
 To claim this, I am signing this object:
 
@@ -14,18 +14,18 @@ To claim this, I am signing this object:
     "key": {
       "eldest_kid": "0120a0dea10a1d4fbb75c4e3e518975640dc0d862d5f8db6babd4886b54a7ea9b15a0a",
       "host": "keybase.io",
-      "kid": "0120a0dea10a1d4fbb75c4e3e518975640dc0d862d5f8db6babd4886b54a7ea9b15a0a",
+      "kid": "0120dee4ae8f03273f36ca625bdb11b580f5aa1ea9ed455acea4e1ec79b0144e80860a",
       "uid": "0824c9378c5a49c7ad83c181a293cc19",
       "username": "jan9poreba"
     },
     "merkle_root": {
-      "ctime": 1568204495,
-      "hash": "61ea143d9ef8b7d78c2cdcec49ec5e7a08a48c242b7ec0645c08dbe3dbd46ebf523f45829d151daf7a1f9bf8ae952941446b16e3b7f585e10fe47b56abc22b89",
-      "hash_meta": "395c077bb246dbb0e1027c530a2f0999bfe729927b0a8d38f0461a205dab48ea",
-      "seqno": 6697753
+      "ctime": 1568214492,
+      "hash": "d46de2b291838b9f1fe8882ebc2bf4c25b53691709ee29761440d38160a293e7d07d2eb49c56168e1bf1775a022929caa8b453529822932fde91a40b0359a50e",
+      "hash_meta": "9d53e345ab7fec31342baae16fe3bb3fd726a90402ea9fd455a3fe80312a3c4a",
+      "seqno": 6740745
     },
     "service": {
-      "entropy": "V8GmnMBuTNs5Xpu5k6S0KcyV",
+      "entropy": "/xxzT4ETKQNYjy7TTqWA8U0l",
       "name": "github",
       "username": "janporeba"
     },
@@ -34,20 +34,20 @@ To claim this, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.0"
+    "version": "4.4.1"
   },
-  "ctime": 1568204578,
+  "ctime": 1568214497,
   "expire_in": 504576000,
-  "prev": "3fb543a760851874842f03fa2b7a0a1ad83a5b7f5b69bc9e4e437bd1521d9066",
-  "seqno": 5,
+  "prev": "78e16ba0a00da9ac11d89a2768b8f2598ef87ac97f0aeeb550bf461bdb60d52c",
+  "seqno": 11,
   "tag": "signature"
 }
 ```
 
-with the key [ASCg3qEKHU-7dcTj5RiXVkDcDYYtX422ur1IhrVKfqmxWgo](https://keybase.io/jan9poreba), yielding the signature:
+with the key [ASDe5K6PAyc_NspiW9sRtYD1qh6p7UVazqTh7HmwFE6Ahgo](https://keybase.io/jan9poreba), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoN6hCh1Pu3XE4+UYl1ZA3A2GLV+Ntrq9SIa1Sn6psVoKp3BheWxvYWTESpcCBcQgP7VDp2CFGHSELwP6K3oKGtg6W39babyeTkN70VIdkGbEIOO8blPuMqEiqN6cb/8VHi33hQiTEiH9XyvPuKx8rzOTAgHCo3NpZ8RAHC+peWiGB3UvlCV4MhuaeKW1TVUmuBFduOZnnAQI8LcoglmK1f/kibon84FkWN/SLvTwgXzr2/MNK3yqL2aKBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE//QCEF/r9atZtjq6hEHUNe5RQwnTnXv2yTcQzYfE1Zo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3uSujwMnPzbKYlvbEbWA9aoeqe1FWs6k4ex5sBROgIYKp3BheWxvYWTESpcCC8QgeOFroKANqawR2JonaLjyWY74esl/Cu61UL9GG9tg1SzEIInmq5Y7Qb5FDb8NYfih5JlTJB02f0grvdY7LZVr84JhAgHCo3NpZ8RAxgooCzBblRws65qX8i8VXrdSQiSFjAdPu9lT9pZQq932cfXDjaQUwS7M3aNwJPHmkEzOr/+XQc2BMQhUQsHUA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK4vcxU3c/B/qEG0qQaj47rmwfo+rHtxITozqPOUO435o3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
